@@ -53,6 +53,7 @@ $config = [
         ]
     ]
     //end kartik
+
 ];
 
 if (YII_ENV_DEV) {
